@@ -26,8 +26,10 @@ It provides key insights into sales, profit, quantity, and forecasting to help b
 
 📸 Dashboard Previews
 Main Sales Dashboard  
+Screenshot 2025-09-16 143124.png
 
  Sales Forecast Dashboard  
+ Screenshot 2025-09-16 143137.png
 
 
 ---
