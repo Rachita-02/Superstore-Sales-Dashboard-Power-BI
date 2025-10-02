@@ -24,6 +24,10 @@ It provides key insights into sales, profit, quantity, and forecasting to help b
 - Payment Mode: COD dominates at 43%, Online at 35%.  
 - Forecast indicates upcoming sales growth with peaks in certain states like California and New York.  
 
+📸 Dashboard Previews
+Main Sales Dashboard  
+
+ Sales Forecast Dashboard  
 
 
 ---
